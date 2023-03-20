@@ -1,0 +1,2 @@
+# SwitchyOmega251_CRX_unpacked
+SwitchyOmega251的CRX 安装包的解压目录
